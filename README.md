@@ -17,3 +17,7 @@ Logistic Regression with TF-IDF Vectorization
 
 ## Dataset
 Fake Job Postings Dataset
+
+## App Preview
+
+![Fake Job Detection App](images/app_demo.png)

@@ -22,3 +22,6 @@ if st.button("Predict"):
             st.success("✅ This job posting is REAL")
     else:
         st.warning("Please enter a job description.")
+        
+        
+        
