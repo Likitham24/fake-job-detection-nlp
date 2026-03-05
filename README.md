@@ -20,4 +20,6 @@ Fake Job Postings Dataset
 
 ## App Preview
 
-![Fake Job Detection App](images/app_demo.png)
+## App Preview
+
+![Fake Job Detection App](app_demo.png/Screenshot%202026-03-05%20133832.png)
